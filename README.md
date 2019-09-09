@@ -6,3 +6,8 @@
 [Vitor Peixoto](https://github.com/VitorPeixoto97)
 
 [Francisco Oliveira](https://github.com/Tibblue)
+
+# Classification
+
+* 1st phase - 14.4 
+* 2nd phase - 15.3
